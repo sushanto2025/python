@@ -1,0 +1,11 @@
+{
+    "name": "Kuddus Halder",
+    "age": 25,
+    "subject": [
+        "Bangla",
+        "English",
+        "Math"
+    ],
+    "dateOfBirth": "2004-02-11",
+    "salary": 5000
+}
